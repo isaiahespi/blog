@@ -1,0 +1,13 @@
+---
+title: 'This is a dummy blog posts'
+categories: ['123', 'Second Tag']
+description: 'This is a test post. In this post, I try out different functionalities'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+date: "2024-04-30"
+date-modified: "2024-04-30" 
+---
+

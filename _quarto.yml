@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Isaiah with Words"
+  description: "This is Isaiah's personal blog."
+  navbar:
+    right:
+      - text: Posts
+        href: blog.qmd
+      - icon: github
+        href: https://github.com/isaiahespi
+format:
+  html:
+    theme:
+      dark: [solar, dark-custom.scss]
+      light: [solar, light-custom.scss]
+    css: styles.css
+
+
+
