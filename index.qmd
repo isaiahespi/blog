@@ -1,13 +1,17 @@
 ---
 title: "About"
-image: logo2.png
+# image: logo2.png
 about:
   template: solana
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/isaiahespi
+    - text: My other site, the Espi-Web
+      href: https://isaiahespi.github.io/espi-web/
+    - text: Go to Posts
+      href: blog.qmd
 
 ---
 
-I'm Isaiah. The image is a stamp of my Korean name. I'm not Korean.
+I'm Isaiah. 
